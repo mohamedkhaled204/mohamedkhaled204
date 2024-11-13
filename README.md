@@ -8,7 +8,7 @@
 
 Energetic Junior Frontend Developer with a flair for React and a knack for turning ideas into vibrant user interfaces. Ready to dive into innovative projects with adaptability and a collaborative spirit. When I'm not coding, you'll find me perfecting my backhand in tennis or making a splash in the pool. Let's create something amazing together—both on the screen and off!
 
-- 🌱 I’m currently learning Next.js.
+- 🌱 I’m currently learning react.js.
 - 🔭 I’m expanding my knowledge by learning Web Performance & Accessibility.
 - 📚 I'm constantly learning new skills and striving for progress.
 
@@ -123,16 +123,13 @@ Energetic Junior Frontend Developer with a flair for React and a knack for turni
 ## 📬 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yousef-fathy/">
+  <a href="https://www.linkedin.com/in/mohamed-khaled-3a39522b6/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" style="background-color: white;">
   </a>
-  <a href="https://x.com/UsefFathyDev">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40">
-  </a>
-  <a href="https://stackoverflow.com/users/17093168/yousef-fathy">
+  <a href="https://stackoverflow.com/users/28286769/mohamed-khaled">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="40">
   </a>
-  <a href="https://codepen.io/youseffathy">
+  <a href="https://codepen.io/Mohamed-Khaled-Tharwat">
     <img src="/logo-black.png" alt="CodePen Logo as SVG" height="40">
   </a>
 </p>
