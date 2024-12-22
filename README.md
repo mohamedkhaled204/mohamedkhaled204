@@ -1,4 +1,3 @@
-![I am a Frontend developer.](<./github-header-image%20(1).png>)
 
 # Hello and Welcome 👋, I'm Mohamed Khaled
 
