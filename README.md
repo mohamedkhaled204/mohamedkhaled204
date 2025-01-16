@@ -42,27 +42,6 @@ Energetic Junior Frontend Developer with a flair for React and a knack for turni
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="./assets/NextJS-Dark.svg" alt="Next js" width="40" height="40"/>
   </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="./assets/vite.svg" alt="vite.js" width="40" height="40"/>
-  </a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer">
-    <img src="./assets/materialui.svg" alt="materialUI" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="./assets/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="./assets/express.svg" alt="express.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="./assets/MongoDB.svg" alt="MongoDb" width="40" height="40"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="./assets/Postman.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="/assets/MySQL-Dark.svg" alt="mySql" width="40" height="40"/>
-  </a>
 </p>
 
 ## 💻 Programming Languages
