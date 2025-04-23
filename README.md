@@ -5,7 +5,7 @@
 
 Energetic Junior Frontend Developer with a flair for React and a knack for turning ideas into vibrant user interfaces. Ready to dive into innovative projects with adaptability and a collaborative spirit. When I'm not coding, you'll find me perfecting my backhand in tennis or making a splash in the pool. Let's create something amazing together—both on the screen and off!
 
-- 🌱 I’m currently learning react.js.
+- 🌱 I’m currently learning NEXT.js.
 - 🔭 I’m expanding my knowledge by learning Web Performance & Accessibility.
 - 📚 I'm constantly learning new skills and striving for progress.
 
